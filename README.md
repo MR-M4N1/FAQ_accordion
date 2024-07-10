@@ -33,7 +33,7 @@
 - DESKTOP :
 ![](./assets/images/ScreenShot_Laptop.JPG)
 - Mobile :
-![](./assets/images/ScreenShot_Mobile.JPG)
+![](./assets/images/ScreenShot_Mobile.Jpg)
 
 
 
